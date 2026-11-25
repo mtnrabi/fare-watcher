@@ -1,0 +1,332 @@
+[
+ {
+  "price_range_in_relation_to_other_periods": "typical",
+  "price_insights_low": 420,
+  "price_insights_high": 700,
+  "from_airport": "New York (JFK)",
+  "to_airport": "Lisbon (LIS)",
+  "departure_date": "2027-01-16",
+  "return_date": "2027-01-26",
+  "total_price": "$604",
+  "total_price_as_number": 604,
+  "total_duration_seconds": 55800,
+  "total_stops": 0,
+  "buy_link": "https://www.google.com/travel/flights?tfs=GjsSCjIwMjctMDEtMTYiHwoDSkZLEgoyMDI3LTAxLTE2GgNMSVMqAlRQMgMyMTBqBRIDSkZLcgUSA0xJUxo7EgoyMDI3LTAxLTI2Ih8KA0xJUxIKMjAyNy0wMS0yNhoDSkZLKgJUUDIDMjA5agUSA0xJU3IFEgNKRktCAQFIAZgBAQ&curr=usd",
+  "departure_flight_departure_description": "10:00 PM on Sat, Jan 16",
+  "departure_flight_arrival_description": "10:00 AM on Sun, Jan 17",
+  "departure_flight_airline": "Tap Air Portugal | JetBlue",
+  "departure_flight_stops": 0,
+  "departure_flight_duration": "7 hr",
+  "departure_stops_info": [],
+  "return_flight_departure_description": "4:35 PM on Tue, Jan 26",
+  "return_flight_arrival_description": "8:05 PM on Tue, Jan 26",
+  "return_flight_airline": "Tap Air Portugal | JetBlue",
+  "return_flight_stops": 0,
+  "return_flight_duration": "8 hr 30 min",
+  "return_stops_info": []
+ },
+ {
+  "price_range_in_relation_to_other_periods": "typical",
+  "price_insights_low": 420,
+  "price_insights_high": 700,
+  "from_airport": "New York (JFK)",
+  "to_airport": "Lisbon (LIS)",
+  "departure_date": "2027-01-16",
+  "return_date": "2027-01-26",
+  "total_price": "$704",
+  "total_price_as_number": 704,
+  "total_duration_seconds": 53580,
+  "total_stops": 0,
+  "buy_link": "https://www.google.com/travel/flights?tfs=GjsSCjIwMjctMDEtMTYiHwoDSkZLEgoyMDI3LTAxLTE2GgNMSVMqAkRMMgMyNzJqBRIDSkZLcgUSA0xJUxo7EgoyMDI3LTAxLTI2Ih8KA0xJUxIKMjAyNy0wMS0yNhoDSkZLKgJETDIDMjczagUSA0xJU3IFEgNKRktCAQFIAZgBAQ&curr=usd",
+  "departure_flight_departure_description": "8:20 PM on Sat, Jan 16",
+  "departure_flight_arrival_description": "8:00 AM on Sun, Jan 17",
+  "departure_flight_airline": "Delta | Air France, KLM, Virgin Atlantic",
+  "departure_flight_stops": 0,
+  "departure_flight_duration": "6 hr 40 min",
+  "departure_stops_info": [],
+  "return_flight_departure_description": "10:00 AM on Tue, Jan 26",
+  "return_flight_arrival_description": "1:13 PM on Tue, Jan 26",
+  "return_flight_airline": "Delta | Air France, KLM, Virgin Atlantic",
+  "return_flight_stops": 0,
+  "return_flight_duration": "8 hr 13 min",
+  "return_stops_info": []
+ },
+ {
+  "price_range_in_relation_to_other_periods": "typical",
+  "price_insights_low": 420,
+  "price_insights_high": 700,
+  "from_airport": "New York (JFK)",
+  "to_airport": "Lisbon (LIS)",
+  "departure_date": "2027-01-16",
+  "return_date": "2027-01-26",
+  "total_price": "$715",
+  "total_price_as_number": 715,
+  "total_duration_seconds": 75480,
+  "total_stops": 1,
+  "buy_link": "https://www.google.com/travel/flights?tfs=GjsSCjIwMjctMDEtMTYiHwoDSkZLEgoyMDI3LTAxLTE2GgNMSVMqAkRMMgMyNzJqBRIDSkZLcgUSA0xJUxpcEgoyMDI3LTAxLTI2IiAKA0xJUxIKMjAyNy0wMS0yNhoDQU1TKgJLTDIEMTU3OCIeCgNBTVMSCjIwMjctMDEtMjYaA0pGSyoCREwyAjQ5agUSA0xJU3IFEgNKRktCAQFIAZgBAQ&curr=usd",
+  "departure_flight_departure_description": "8:20 PM on Sat, Jan 16",
+  "departure_flight_arrival_description": "8:00 AM on Sun, Jan 17",
+  "departure_flight_airline": "Delta | Air France, KLM, Virgin Atlantic",
+  "departure_flight_stops": 0,
+  "departure_flight_duration": "6 hr 40 min",
+  "departure_stops_info": [],
+  "return_flight_departure_description": "5:00 AM on Tue, Jan 26",
+  "return_flight_arrival_description": "2:18 PM on Tue, Jan 26",
+  "return_flight_airline": "KLM, Delta",
+  "return_flight_stops": 1,
+  "return_flight_duration": "14 hr 18 min",
+  "return_stops_info": [
+   {
+    "stop_airport": "AMS",
+    "stop_duration_seconds": 9300
+   }
+  ]
+ },
+ {
+  "price_range_in_relation_to_other_periods": "typical",
+  "price_insights_low": 420,
+  "price_insights_high": 700,
+  "from_airport": "New York (JFK)",
+  "to_airport": "Lisbon (LIS)",
+  "departure_date": "2027-01-16",
+  "return_date": "2027-01-26",
+  "total_price": "$767",
+  "total_price_as_number": 767,
+  "total_duration_seconds": 72900,
+  "total_stops": 1,
+  "buy_link": "https://www.google.com/travel/flights?tfs=GjsSCjIwMjctMDEtMTYiHwoDSkZLEgoyMDI3LTAxLTE2GgNMSVMqAlRQMgMyMTBqBRIDSkZLcgUSA0xJUxpcEgoyMDI3LTAxLTI2Ih8KA0xJUxIKMjAyNy0wMS0yNhoDQk9TKgJUUDIDMjE3Ih8KA0JPUxIKMjAyNy0wMS0yNhoDSkZLKgJCNjIDNzE3agUSA0xJU3IFEgNKRktCAQFIAZgBAQ&curr=usd",
+  "departure_flight_departure_description": "10:00 PM on Sat, Jan 16",
+  "departure_flight_arrival_description": "10:00 AM on Sun, Jan 17",
+  "departure_flight_airline": "Tap Air Portugal | JetBlue",
+  "departure_flight_stops": 0,
+  "departure_flight_duration": "7 hr",
+  "departure_stops_info": [],
+  "return_flight_departure_description": "11:45 AM on Tue, Jan 26",
+  "return_flight_arrival_description": "8:00 PM on Tue, Jan 26",
+  "return_flight_airline": "Tap Air Portugal, JetBlue",
+  "return_flight_stops": 1,
+  "return_flight_duration": "13 hr 15 min",
+  "return_stops_info": [
+   {
+    "stop_airport": "BOS",
+    "stop_duration_seconds": 13980
+   }
+  ]
+ },
+ {
+  "price_range_in_relation_to_other_periods": "typical",
+  "price_insights_low": 420,
+  "price_insights_high": 700,
+  "from_airport": "New York (JFK)",
+  "to_airport": "Lisbon (LIS)",
+  "departure_date": "2027-01-16",
+  "return_date": "2027-01-26",
+  "total_price": "$527",
+  "total_price_as_number": 527,
+  "total_duration_seconds": 85800,
+  "total_stops": 2,
+  "buy_link": "https://www.google.com/travel/flights?tfs=GlwSCjIwMjctMDEtMTYiHwoDSkZLEgoyMDI3LTAxLTE2GgNLRUYqAkZJMgM2MTQiHwoDS0VGEgoyMDI3LTAxLTE3GgNMSVMqAkZJMgM5NTRqBRIDSkZLcgUSA0xJUxpcEgoyMDI3LTAxLTI2Ih8KA0xJUxIKMjAyNy0wMS0yNhoDS0VGKgJGSTIDOTU1Ih8KA0tFRhIKMjAyNy0wMS0yNhoDSkZLKgJGSTIDNjE1agUSA0xJU3IFEgNKRktCAQFIAZgBAQ&curr=usd",
+  "departure_flight_departure_description": "7:25 PM on Sat, Jan 16",
+  "departure_flight_arrival_description": "12:50 PM on Sun, Jan 17",
+  "departure_flight_airline": "Icelandair",
+  "departure_flight_stops": 1,
+  "departure_flight_duration": "12 hr 25 min",
+  "departure_stops_info": [
+   {
+    "stop_airport": "KEF",
+    "stop_duration_seconds": 8400
+   }
+  ],
+  "return_flight_departure_description": "11:35 AM on Tue, Jan 26",
+  "return_flight_arrival_description": "6:00 PM on Tue, Jan 26",
+  "return_flight_airline": "Icelandair",
+  "return_flight_stops": 1,
+  "return_flight_duration": "11 hr 25 min",
+  "return_stops_info": [
+   {
+    "stop_airport": "KEF",
+    "stop_duration_seconds": 2700
+   }
+  ]
+ },
+ {
+  "price_range_in_relation_to_other_periods": "typical",
+  "price_insights_low": 420,
+  "price_insights_high": 700,
+  "from_airport": "New York (JFK)",
+  "to_airport": "Lisbon (LIS)",
+  "departure_date": "2027-01-16",
+  "return_date": "2027-01-26",
+  "total_price": "$697",
+  "total_price_as_number": 697,
+  "total_duration_seconds": 97200,
+  "total_stops": 2,
+  "buy_link": "https://www.google.com/travel/flights?tfs=GlwSCjIwMjctMDEtMTYiHwoDSkZLEgoyMDI3LTAxLTE2GgNMSFIqAkFBMgMxMDQiHwoDTEhSEgoyMDI3LTAxLTE3GgNMSVMqAkJBMgM1MDZqBRIDSkZLcgUSA0xJUxpcEgoyMDI3LTAxLTI2Ih8KA0xJUxIKMjAyNy0wMS0yNhoDTUFEKgJJQjIDNTQwIh8KA01BRBIKMjAyNy0wMS0yNhoDSkZLKgJJQjIDMjExagUSA0xJU3IFEgNKRktCAQFIAZgBAQ&curr=usd",
+  "departure_flight_departure_description": "9:00 PM on Sat, Jan 16",
+  "departure_flight_arrival_description": "2:55 PM on Sun, Jan 17",
+  "departure_flight_airline": "American, British Airways",
+  "departure_flight_stops": 1,
+  "departure_flight_duration": "12 hr 55 min",
+  "departure_stops_info": [
+   {
+    "stop_airport": "LHR",
+    "stop_duration_seconds": 9600
+   }
+  ],
+  "return_flight_departure_description": "6:30 AM on Tue, Jan 26",
+  "return_flight_arrival_description": "3:35 PM on Tue, Jan 26",
+  "return_flight_airline": "Iberia | American",
+  "return_flight_stops": 1,
+  "return_flight_duration": "14 hr 5 min",
+  "return_stops_info": [
+   {
+    "stop_airport": "MAD",
+    "stop_duration_seconds": 12300
+   }
+  ]
+ },
+ {
+  "price_range_in_relation_to_other_periods": "typical",
+  "price_insights_low": 420,
+  "price_insights_high": 700,
+  "from_airport": "New York (JFK)",
+  "to_airport": "Lisbon (LIS)",
+  "departure_date": "2027-01-16",
+  "return_date": "2027-01-26",
+  "total_price": "$697",
+  "total_price_as_number": 697,
+  "total_duration_seconds": 110400,
+  "total_stops": 2,
+  "buy_link": "https://www.google.com/travel/flights?tfs=GlwSCjIwMjctMDEtMTYiHwoDSkZLEgoyMDI3LTAxLTE2GgNMSFIqAkFBMgMxMDQiHwoDTEhSEgoyMDI3LTAxLTE3GgNMSVMqAkJBMgM1MDZqBRIDSkZLcgUSA0xJUxpcEgoyMDI3LTAxLTI2Ih8KA0xJUxIKMjAyNy0wMS0yNhoDTUFEKgJJQjIDNTQwIh8KA01BRBIKMjAyNy0wMS0yNhoDSkZLKgJJQjIDMzI1agUSA0xJU3IFEgNKRktCAQFIAZgBAQ&curr=usd",
+  "departure_flight_departure_description": "9:00 PM on Sat, Jan 16",
+  "departure_flight_arrival_description": "2:55 PM on Sun, Jan 17",
+  "departure_flight_airline": "American, British Airways",
+  "departure_flight_stops": 1,
+  "departure_flight_duration": "12 hr 55 min",
+  "departure_stops_info": [
+   {
+    "stop_airport": "LHR",
+    "stop_duration_seconds": 9600
+   }
+  ],
+  "return_flight_departure_description": "6:30 AM on Tue, Jan 26",
+  "return_flight_arrival_description": "7:15 PM on Tue, Jan 26",
+  "return_flight_airline": "Iberia | American",
+  "return_flight_stops": 1,
+  "return_flight_duration": "17 hr 45 min",
+  "return_stops_info": [
+   {
+    "stop_airport": "MAD",
+    "stop_duration_seconds": 26700
+   }
+  ]
+ },
+ {
+  "price_range_in_relation_to_other_periods": "typical",
+  "price_insights_low": 420,
+  "price_insights_high": 700,
+  "from_airport": "New York (JFK)",
+  "to_airport": "Lisbon (LIS)",
+  "departure_date": "2027-01-16",
+  "return_date": "2027-01-26",
+  "total_price": "$706",
+  "total_price_as_number": 706,
+  "total_duration_seconds": 91800,
+  "total_stops": 2,
+  "buy_link": "https://www.google.com/travel/flights?tfs=Gl0SCjIwMjctMDEtMTYiHwoDSkZLEgoyMDI3LTAxLTE2GgNNQUQqAklCMgMyMTIiIAoDTUFEEgoyMDI3LTAxLTE3GgNMSVMqAklCMgQxMTQxagUSA0pGS3IFEgNMSVMaXBIKMjAyNy0wMS0yNiIfCgNMSVMSCjIwMjctMDEtMjYaA01BRCoCSUIyAzUzMiIfCgNNQUQSCjIwMjctMDEtMjYaA0pGSyoCSUIyAzMyNWoFEgNMSVNyBRIDSkZLQgEBSAGYAQE&curr=usd",
+  "departure_flight_departure_description": "5:05 PM on Sat, Jan 16",
+  "departure_flight_arrival_description": "11:50 AM on Sun, Jan 17",
+  "departure_flight_airline": "Iberia | American | Operated by Air Nostrum for Iberia",
+  "departure_flight_stops": 1,
+  "departure_flight_duration": "13 hr 45 min",
+  "departure_stops_info": [
+   {
+    "stop_airport": "MAD",
+    "stop_duration_seconds": 18300
+   }
+  ],
+  "return_flight_departure_description": "12:30 PM on Tue, Jan 26",
+  "return_flight_arrival_description": "7:15 PM on Tue, Jan 26",
+  "return_flight_airline": "Iberia",
+  "return_flight_stops": 1,
+  "return_flight_duration": "11 hr 45 min",
+  "return_stops_info": [
+   {
+    "stop_airport": "MAD",
+    "stop_duration_seconds": 5100
+   }
+  ]
+ },
+ {
+  "price_range_in_relation_to_other_periods": "typical",
+  "price_insights_low": 420,
+  "price_insights_high": 700,
+  "from_airport": "New York (JFK)",
+  "to_airport": "Lisbon (LIS)",
+  "departure_date": "2027-01-16",
+  "return_date": "2027-01-26",
+  "total_price": "$706",
+  "total_price_as_number": 706,
+  "total_duration_seconds": 100200,
+  "total_stops": 2,
+  "buy_link": "https://www.google.com/travel/flights?tfs=Gl0SCjIwMjctMDEtMTYiHwoDSkZLEgoyMDI3LTAxLTE2GgNNQUQqAklCMgMyMTIiIAoDTUFEEgoyMDI3LTAxLTE3GgNMSVMqAklCMgQxMTQxagUSA0pGS3IFEgNMSVMaXBIKMjAyNy0wMS0yNiIfCgNMSVMSCjIwMjctMDEtMjYaA01BRCoCSUIyAzU0MCIfCgNNQUQSCjIwMjctMDEtMjYaA0pGSyoCSUIyAzIxMWoFEgNMSVNyBRIDSkZLQgEBSAGYAQE&curr=usd",
+  "departure_flight_departure_description": "5:05 PM on Sat, Jan 16",
+  "departure_flight_arrival_description": "11:50 AM on Sun, Jan 17",
+  "departure_flight_airline": "Iberia | American | Operated by Air Nostrum for Iberia",
+  "departure_flight_stops": 1,
+  "departure_flight_duration": "13 hr 45 min",
+  "departure_stops_info": [
+   {
+    "stop_airport": "MAD",
+    "stop_duration_seconds": 18300
+   }
+  ],
+  "return_flight_departure_description": "6:30 AM on Tue, Jan 26",
+  "return_flight_arrival_description": "3:35 PM on Tue, Jan 26",
+  "return_flight_airline": "Iberia | American",
+  "return_flight_stops": 1,
+  "return_flight_duration": "14 hr 5 min",
+  "return_stops_info": [
+   {
+    "stop_airport": "MAD",
+    "stop_duration_seconds": 12300
+   }
+  ]
+ },
+ {
+  "price_range_in_relation_to_other_periods": "typical",
+  "price_insights_low": 420,
+  "price_insights_high": 700,
+  "from_airport": "New York (JFK)",
+  "to_airport": "Lisbon (LIS)",
+  "departure_date": "2027-01-16",
+  "return_date": "2027-01-26",
+  "total_price": "$706",
+  "total_price_as_number": 706,
+  "total_duration_seconds": 77700,
+  "total_stops": 2,
+  "buy_link": "https://www.google.com/travel/flights?tfs=Gl0SCjIwMjctMDEtMTYiHwoDSkZLEgoyMDI3LTAxLTE2GgNNQUQqAklCMgMzMjYiIAoDTUFEEgoyMDI3LTAxLTE3GgNMSVMqAklCMgQxMTQxagUSA0pGS3IFEgNMSVMaXBIKMjAyNy0wMS0yNiIfCgNMSVMSCjIwMjctMDEtMjYaA01BRCoCSUIyAzUzMiIfCgNNQUQSCjIwMjctMDEtMjYaA0pGSyoCSUIyAzMyNWoFEgNMSVNyBRIDSkZLQgEBSAGYAQE&curr=usd",
+  "departure_flight_departure_description": "9:00 PM on Sat, Jan 16",
+  "departure_flight_arrival_description": "11:50 AM on Sun, Jan 17",
+  "departure_flight_airline": "Iberia | American | Operated by Air Nostrum for Iberia",
+  "departure_flight_stops": 1,
+  "departure_flight_duration": "9 hr 50 min",
+  "departure_stops_info": [
+   {
+    "stop_airport": "MAD",
+    "stop_duration_seconds": 3900
+   }
+  ],
+  "return_flight_departure_description": "12:30 PM on Tue, Jan 26",
+  "return_flight_arrival_description": "7:15 PM on Tue, Jan 26",
+  "return_flight_airline": "Iberia",
+  "return_flight_stops": 1,
+  "return_flight_duration": "11 hr 45 min",
+  "return_stops_info": [
+   {
+    "stop_airport": "MAD",
+    "stop_duration_seconds": 5100
+   }
+  ]
+ }
+]

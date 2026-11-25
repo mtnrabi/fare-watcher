@@ -1,0 +1,174 @@
+{
+ "from_airport": "EWR",
+ "to_airport": "DUB",
+ "trip_type": "roundtrip",
+ "nights": 10,
+ "adults": 1,
+ "currency": "USD",
+ "fetched_at": "2026-11-25T11:23:49Z",
+ "dates_searched": 31,
+ "dates_with_price": 31,
+ "cheapest": {
+  "departure_date": "2027-02-01",
+  "return_date": "2027-02-11",
+  "price": 394.0
+ },
+ "dates": [
+  {
+   "departure_date": "2027-01-09",
+   "return_date": "2027-01-19",
+   "price": 459.0
+  },
+  {
+   "departure_date": "2027-01-10",
+   "return_date": "2027-01-20",
+   "price": 459.0
+  },
+  {
+   "departure_date": "2027-01-11",
+   "return_date": "2027-01-21",
+   "price": 459.0
+  },
+  {
+   "departure_date": "2027-01-12",
+   "return_date": "2027-01-22",
+   "price": 463.0
+  },
+  {
+   "departure_date": "2027-01-13",
+   "return_date": "2027-01-23",
+   "price": 459.0
+  },
+  {
+   "departure_date": "2027-01-14",
+   "return_date": "2027-01-24",
+   "price": 459.0
+  },
+  {
+   "departure_date": "2027-01-15",
+   "return_date": "2027-01-25",
+   "price": 459.0
+  },
+  {
+   "departure_date": "2027-01-16",
+   "return_date": "2027-01-26",
+   "price": 459.0
+  },
+  {
+   "departure_date": "2027-01-17",
+   "return_date": "2027-01-27",
+   "price": 459.0
+  },
+  {
+   "departure_date": "2027-01-18",
+   "return_date": "2027-01-28",
+   "price": 459.0
+  },
+  {
+   "departure_date": "2027-01-19",
+   "return_date": "2027-01-29",
+   "price": 459.0
+  },
+  {
+   "departure_date": "2027-01-20",
+   "return_date": "2027-01-30",
+   "price": 459.0
+  },
+  {
+   "departure_date": "2027-01-21",
+   "return_date": "2027-01-31",
+   "price": 459.0
+  },
+  {
+   "departure_date": "2027-01-22",
+   "return_date": "2027-02-01",
+   "price": 459.0
+  },
+  {
+   "departure_date": "2027-01-23",
+   "return_date": "2027-02-02",
+   "price": 459.0
+  },
+  {
+   "departure_date": "2027-01-24",
+   "return_date": "2027-02-03",
+   "price": 459.0
+  },
+  {
+   "departure_date": "2027-01-25",
+   "return_date": "2027-02-04",
+   "price": 459.0
+  },
+  {
+   "departure_date": "2027-01-26",
+   "return_date": "2027-02-05",
+   "price": 459.0
+  },
+  {
+   "departure_date": "2027-01-27",
+   "return_date": "2027-02-06",
+   "price": 465.0
+  },
+  {
+   "departure_date": "2027-01-28",
+   "return_date": "2027-02-07",
+   "price": 459.0
+  },
+  {
+   "departure_date": "2027-01-29",
+   "return_date": "2027-02-08",
+   "price": 459.0
+  },
+  {
+   "departure_date": "2027-01-30",
+   "return_date": "2027-02-09",
+   "price": 459.0
+  },
+  {
+   "departure_date": "2027-01-31",
+   "return_date": "2027-02-10",
+   "price": 465.0
+  },
+  {
+   "departure_date": "2027-02-01",
+   "return_date": "2027-02-11",
+   "price": 394.0
+  },
+  {
+   "departure_date": "2027-02-02",
+   "return_date": "2027-02-12",
+   "price": 394.0
+  },
+  {
+   "departure_date": "2027-02-03",
+   "return_date": "2027-02-13",
+   "price": 394.0
+  },
+  {
+   "departure_date": "2027-02-04",
+   "return_date": "2027-02-14",
+   "price": 394.0
+  },
+  {
+   "departure_date": "2027-02-05",
+   "return_date": "2027-02-15",
+   "price": 462.0
+  },
+  {
+   "departure_date": "2027-02-06",
+   "return_date": "2027-02-16",
+   "price": 465.0
+  },
+  {
+   "departure_date": "2027-02-07",
+   "return_date": "2027-02-17",
+   "price": 394.0
+  },
+  {
+   "departure_date": "2027-02-08",
+   "return_date": "2027-02-18",
+   "price": 462.0
+  }
+ ],
+ "source_note": "Prices are Google Flights' calendar estimates: the lowest fare Google shows for each date, for all passengers together, without airline or flight details. A full search for a date can return a different price; confirm the date you pick with the one-way or round-trip search before booking."
+}

@@ -1,0 +1,9 @@
+{
+  "from": ["JFK", "EWR"],
+  "to": ["LIS", "DUB"],
+  "nights": [7, 10],
+  "window": { "starts_in_days": 45, "days": 31 },
+  "currency": "USD",
+  "confirm": 2,
+  "max_requests": 12
+}
